@@ -1,5 +1,5 @@
-Privacy Policy for YouTube Playlist Length
-Last Updated: 17-12-2025
+# Privacy Policy for YouTube Playlist Length
+### Last Updated: 17-12-2025
 
 YouTube Playlist Length ("we," "us," or "our") is dedicated to protecting your privacy. This Privacy Policy explains how our Chrome extension handles your information.
 
